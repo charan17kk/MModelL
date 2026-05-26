@@ -5,7 +5,7 @@ import time
 import warnings
 warnings.filterwarnings("ignore")
 
-st.set_page_config(page_title="Loan ABC Application Predictor", page_icon="🏦", layout="centered")
+st.set_page_config(page_title="Loan  Application Predictor", page_icon="🏦", layout="centered")
 
 @st.cache_resource
 def load_artifacts():
